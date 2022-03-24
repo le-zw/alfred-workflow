@@ -1,0 +1,2 @@
+# AlfredJavascript
+通过alfred调用Javascript脚本直接在浏览器执行，可以实现快速登录
